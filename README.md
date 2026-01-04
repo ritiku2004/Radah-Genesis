@@ -22,7 +22,7 @@ A React Native application built with Expo that runs on Android and Web from a s
 
 1. **Clone the repository:**
    ```bash
-   git clone <https://github.com/ritiku2004/Radah-Genesis>
+   git clone https://github.com/ritiku2004/Radah-Genesis
    cd location-app
    ```
 
